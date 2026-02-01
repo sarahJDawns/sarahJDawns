@@ -1,4 +1,5 @@
-# Hi, I'm SarahJ 🖋️
+# Hi, I'm Sarah J 🖋️
 
-- 🛠️ **Current Project:** Building a better home for my art and projects with Astro & Cloudflare.
+- 🛠️ **Current Project:** Building a better home for my art and projects.
 - 🎨 **At Practice:** Working with ink and watercolor washes.
+- 🌻 **Outdoors by Default**
